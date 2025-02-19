@@ -1,6 +1,8 @@
 from customtkinter import *
 from PIL import Image
 
+#Проверка изменений
+
 
 def add_digit(digit):
     value = entry_formula.get() + str(digit)
